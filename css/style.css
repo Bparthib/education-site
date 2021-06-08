@@ -36,7 +36,7 @@ html::-webkit-scrollbar-thumb{
 
 section{
     min-height: 100vh;
-    padding:1rem 7%;
+    padding: 0rem 7%;
     padding-top:6rem;
 }
 
@@ -450,6 +450,7 @@ header #menu{
 .contact .row .image img{
     height: 80vh;
     margin-top: 2rem;
+    display: block;
 }
 
 .footer{
